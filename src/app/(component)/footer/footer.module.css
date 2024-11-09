@@ -1,0 +1,14 @@
+.footer_cont{
+    width: 100%;
+    height: 3.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #262626;
+}
+.prop{
+    display: inline-block;
+}
+
+
